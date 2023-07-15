@@ -1,1 +1,2 @@
 # PSIO-IN-PS1-900X
+索尼PS1 900X机型安装PSIO方法
